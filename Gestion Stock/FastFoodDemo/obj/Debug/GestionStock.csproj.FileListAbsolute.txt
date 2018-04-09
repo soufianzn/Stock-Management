@@ -1,0 +1,19 @@
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\bin\Debug\Gestion stock.exe.config
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\bin\Debug\Gestion stock.exe
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\bin\Debug\Gestion stock.pdb
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\bin\Debug\MySql.Data.dll
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\bin\Debug\MySql.Data.xml
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\GestionStock.csprojResolveAssemblyReference.cache
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\Gestion stock.g.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.Authentification_Form.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.ClientManager.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.CommandUserControl.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.ProductManager.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.ProviderManager.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\Gestionstocks.Properties.Resources.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\FastFoodDemo.StockManager.resources
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\GestionStock.csproj.GenerateResource.Cache
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\Gestion stock.exe
+C:\Users\Soufian\Downloads\Gestion Stock\Gestion Stock\FastFoodDemo\obj\Debug\Gestion stock.pdb

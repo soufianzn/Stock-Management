@@ -1,0 +1,30 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\MySql.Data.dll
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\MySql.Data.xml
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CommandUserControl.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.ClientManager.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.ProductManager.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.g.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Authentification_Form.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.ProviderManager.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.StockManager.resources
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojResolveAssemblyReference.cache
+C:\Users\Soufian\Downloads\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\Gestion stock.exe.config
